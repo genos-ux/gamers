@@ -1,0 +1,67 @@
+
+[
+    {
+        "id":1,
+        "name":"console",
+        
+        "imgUrl" : "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "isLive": true
+    },
+    {
+        "id":2,
+        "name":"Chess",
+    
+        "imgUrl" : "https://cdn.pixabay.com/photo/2015/12/07/10/42/chess-1080533__340.jpg",
+        "isLive": false
+    },
+    {
+        "id":3,
+        "name":"Snooker",
+        
+        "imgUrl" : "https://images.pexels.com/photos/10627100/pexels-photo-10627100.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "isLive": false
+    },
+    {
+        "id":4,
+        "name":"Uno",
+        
+        "imgUrl" : "https://www.shutterstock.com/image-photo/moscow-russia-november-24th-2017-260nw-787322752.jpg",
+        "isLive": true
+    },
+    {
+        "id":5,
+        "name":"console",
+        
+        "imgUrl" : "https://images.pexels.com/photos/3945683/pexels-photo-3945683.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "isLive": false
+    },
+    {
+        "id":6,
+        "name":"Table tennis",
+        
+        "imgUrl" : "https://images.pexels.com/photos/3846048/pexels-photo-3846048.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "isLive": true
+    },
+    {
+        "id":7,
+        "name":"Snooker",
+        
+        "imgUrl" : "https://media.istockphoto.com/id/509796074/photo/billiard-balls-in-a-green-pool-table.jpg?b=1&s=612x612&w=0&k=20&c=EgMciba-nTtuh7Lok8j64I1FxPQjIGPEMpShAkEZ5wg=",
+        "isLive": false
+    },
+    {
+        "id":8,
+        "name":"Checkers",
+        
+        "imgUrl" : "https://media.istockphoto.com/id/1022530644/photo/loss-of-checkers-the-situation-is-deadlocked-concept-zugzwang.jpg?b=1&s=612x612&w=0&k=20&c=iC4FTXlUHnDFXg1UWj3EHLRFzEgwhR1zgWzegVe1648=",
+        "isLive": true
+    },
+    {
+        "id":9,
+        "name":"Chess",
+        
+        "imgUrl" : "https://cdn.pixabay.com/photo/2015/12/07/10/40/strategy-1080528__340.jpg",
+        "isLive": false
+    }
+
+] 

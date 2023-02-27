@@ -1,0 +1,16 @@
+div > li{
+  list-style-type: none;
+  margin-bottom: 5px;
+  cursor: pointer;
+  
+}
+
+li > span{
+  margin-left: 5px;
+}
+
+.img:hover{
+  background-color: black;
+  background-image: 'https://img.freepik.com/free-vector/modern-currently-offline-twitch-banner-with-red-brush-stroke-background_1361-3372.jpg?size=626&ext=jpg&ga=GA1.2.718236374.1677044455&semt=ais';
+  
+}

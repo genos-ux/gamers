@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* <Button variant="outline-success" size="sm" className="m">Cash:0.0</Button>
+                  <Button variant="outline-success" size="sm" style={{marginLeft:"8px",background:"green",color:"white"}}>Deposit</Button>
+                  
+                  <Offcanva/> */
